@@ -6,11 +6,11 @@ import math
 
 def calcPrime (n):
     prime_list = [2]
-    primeCandidate = int(3)
+    prime_candidate = int(3)
     while len(prime_list) < n:
-        if checkPrime(prime_list, primeCandidate):
-            prime_list.append(primeCandidate)
-        primeCandidate += 2
+        if checkPrime(prime_list, prime_candidate):
+            prime_list.append(prime_candidate)
+        prime_candidate += 2
     return prime_list[-1]
 
 def checkPrime (list, num):
