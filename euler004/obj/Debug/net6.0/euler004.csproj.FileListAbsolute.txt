@@ -1,0 +1,15 @@
+C:\Users\colem\code\02-project-euler\euler004\bin\Debug\net6.0\euler004.exe
+C:\Users\colem\code\02-project-euler\euler004\bin\Debug\net6.0\euler004.deps.json
+C:\Users\colem\code\02-project-euler\euler004\bin\Debug\net6.0\euler004.runtimeconfig.json
+C:\Users\colem\code\02-project-euler\euler004\bin\Debug\net6.0\euler004.dll
+C:\Users\colem\code\02-project-euler\euler004\bin\Debug\net6.0\euler004.pdb
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.csproj.AssemblyReference.cache
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.AssemblyInfoInputs.cache
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.AssemblyInfo.cs
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.csproj.CoreCompileInputs.cache
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.dll
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\refint\euler004.dll
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.pdb
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\euler004.genruntimeconfig.cache
+C:\Users\colem\code\02-project-euler\euler004\obj\Debug\net6.0\ref\euler004.dll
